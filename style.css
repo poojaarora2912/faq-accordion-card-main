@@ -129,14 +129,14 @@ bottom:-2rem;
     /* display: none; */
     height:0px;
     text-align: left;
-    margin-right:2rem;
-    
-    
-    
-   
+    margin-right:2rem;    
+}
+.attribution{
+    position:relative;
+    right:14rem;
+    color: black;
     
 }
-
 
 
 
